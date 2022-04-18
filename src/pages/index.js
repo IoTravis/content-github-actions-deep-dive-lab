@@ -8,7 +8,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <header>
-        <title>Cloud Coffee</title>
+        <title>Cloud Coffee by @IoTravis</title>
         <meta name="description" content="Bringing Coffee to the Cloud" />
       </header>
       
@@ -17,7 +17,7 @@ const IndexPage = () => {
 
           <h1 className='title'>
             Welcome to{' '}
-            <code className='title_code'>Cloud Coffee</code>
+            <code className='title_code'>Cloud Coffee by @IoTravis</code>
           </h1>
       
 
