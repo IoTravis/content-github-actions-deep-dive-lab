@@ -19,6 +19,8 @@ const IndexPage = () => {
             Welcome to{' '}
             <code className='title_code'>Cloud Coffee by @IoTravis</code>
           </h1>
+
+          <h3 className='title'>Launch date announced!  See you in 2023!</h3>
       
 
           <p className='description'>
